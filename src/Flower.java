@@ -8,6 +8,7 @@ public class Flower {
         this.sepalLength = sepalLength;
         this.sepalWidth = sepalWidth;
         this.petalLength = petalLength;
+        //There should be some comments here !
         this.petalWidth = petalWidth;
     }
 }
